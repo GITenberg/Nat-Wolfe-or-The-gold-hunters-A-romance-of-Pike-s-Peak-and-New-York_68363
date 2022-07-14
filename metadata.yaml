@@ -1,0 +1,54 @@
+_repo: Nat-Wolfe-or-The-gold-hunters-A-romance-of-Pike-s-Peak-and-New-York_68363
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Victor, Metta Victoria Fuller
+    aliases:
+    - Victor, Metta V.
+    - Register, Seeley
+    - James, Orrin, Mrs.
+    - Fuller, Metta Victoria
+    - Victor, Mrs. M. V.
+    - Kennedy, Rose
+    - Victor, M. V. (Metta Victoria)
+    - Peabody, Mark, Mrs.
+    - Gray, Walter T.
+    - Regester, Seeley
+    birthdate: 1831
+    deathdate: 1885
+    gutenberg_agent_id: '9505'
+    url: http://www.gutenberg.org/2009/agents/9505
+    wikipedia: https://en.wikipedia.org/wiki/Metta_Victoria_Fuller_Victor
+description: ''
+gutenberg_issued: '2022-06-21'
+identifiers:
+  gutenberg: '68363'
+language: en
+pgterms:marc905: 20200424120133various
+pgterms:marc906: '1872'
+pgterms:marc907: US
+production_note: David Edwards, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Northern Illinois University Digital Library)
+publication_note: United States :Beadle and Adams,1872,copyright 1884.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Beadle's pocket novels, no. 5.
+subjects:
+- !lcsh 'Runaway wives -- Fiction'
+- !lcsh 'American bison hunting -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Missing persons -- Fiction'
+- !lcsh 'Dime novels'
+- !lcsh 'Frontier and pioneer life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Prospecting -- Fiction'
+- !lcsh 'Pikes Peak (Colo.) -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Abduction -- Fiction'
+- !lcsh 'American bison -- Fiction'
+- !lcsh 'Physicians -- Fiction'
+- !lcsh 'Romance fiction'
+- GITenberg
+title: 'Nat Wolfe; or, The gold hunters: A romance of Pike''s Peak and New York'
+url: http://www.gutenberg.org/ebooks/68363
